@@ -26,6 +26,7 @@ User-Friendly Interface: Simple, fast, and easy-to-navigate design for all users
 UI Toggle System
 Simple form switching between different features (App Store, App Install, Uninstall, Search, etc.)
 Active button highlighting
+
 🛠️ Tech Stack
 Frontend: React.js
 Routing & Layouts: React Router, nested layouts
@@ -34,6 +35,7 @@ Styling: Tailwind CSS
 Charts & Data Visualization: Recharts (for bar/vertical charts)
 Animations & Feedback: CSS animations, React loading components, React-Toastify for notifications
 State Management: React Hooks (useState, useEffect, etc.)
+
 📂 Project Structure
 /project-folder 
 ├── public/               # Public assets like index.html
@@ -53,6 +55,7 @@ State Management: React Hooks (useState, useEffect, etc.)
 ├── package-lock.json     # Dependency tree lock
 ├── README.md             # Project documentation
 └── vite.config.js        # Vite configuration
+
 ⚙️ How It Works
 Initial Balance → Starts with available balance shown on UI.
 
@@ -67,17 +70,8 @@ Transaction Updates
 
 Balance is updated dynamically.
 Transaction log is updated in history.
-🔰 Installation & Setup
-Follow these steps to set up the project locally:
 
-Clone this repository
-git clone
-Navigate to the project folder
-cd Hero.IO--AppStore
-Install dependencies
-npm install
-Start the development server
-npm run dev
+
 📌 Future Improvements
 Persistent storage with localStorage or database
 Responsive design improvements

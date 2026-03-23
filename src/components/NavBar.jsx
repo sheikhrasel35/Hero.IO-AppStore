@@ -81,7 +81,7 @@ const NavBar = () => {
 
       <div className="navbar-end">
         <a
-          href="https://github.com/Mahbub-Zaman" target="_blank" className="w-[145px] h-[43px] bg-gradient-to-r from-[#632EE3] to-[#9F62F2] 
+          href="https://github.com/sheikhrasel35" target="_blank" className="w-[145px] h-[43px] bg-gradient-to-r from-[#632EE3] to-[#9F62F2] 
                     text-white text-[16px] font-medium rounded-md flex items-center justify-center gap-2"
         >
           <img src={githubLogo} alt="GitHub Logo" className="w-5 h-5 filter invert" />
