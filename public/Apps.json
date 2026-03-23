@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "image": "/among-us.jpeg",
+    "title": "Among Us",
+    "companyName": "Innersloth LLC",
+    "description": "Play online or over local WiFi with 4–15 players as you attempt to prep your spaceship for departure. Beware of impostors bent on killing everyone!",
+    "size": 250,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+       { "name": "1 star", "count": 300000 },
+       { "name": "2 star", "count": 200000 },
+       { "name": "3 star", "count": 1500000 },
+       { "name": "4 star", "count": 3500000 },
+       { "name": "5 star", "count": 9600000 }
+      ]
+  },
+  {
+    "id": 2,
+    "image": "/Chatgpt.jpeg",
+    "title": "ChatGPT",
+    "companyName": "OpenAI",
+    "description": "Your AI-powered assistant for chatting, writing, and learning anything instantly.",
+    "size": 60,
+    "reviews": 2500000,
+    "ratingAvg": 4.8,
+    "downloads": 150000000,
+    "ratings": [
+      { "name": "1 star", "count": 50000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 600000 },
+      { "name": "5 star", "count": 1700000 }
+    ]
+},
+  {
+    "id": 3,
+    "image": "/Discord.jpeg",
+    "title": "Discord",
+    "companyName": "Discord Inc.",
+    "description": "Chat, call, and connect with your communities in one place.",
+    "size": 90,
+    "reviews": 17000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 900000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 11500000 }
+    ]
+  },
+  {
+    "id": 4,
+    "image": "/Duolingo.jpeg",
+    "title": "Duolingo",
+    "companyName": "Duolingo Inc.",
+    "description": "Learn languages for free with fun, bite-sized lessons.",
+    "size": 65,
+    "reviews": 10000000,
+    "ratingAvg": 4.7,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 80000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 6800000 }
+    ]
+  },
+  {
+    "id": 5,
+    "image": "/Facebook.jpeg",
+    "title": "Facebook",
+    "companyName": "Meta Platforms Inc.",
+    "description": "Connect with friends, share updates, and discover communities around you.",
+    "size": 200,
+    "reviews": 120000000,
+    "ratingAvg": 4.1,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 30000000 },
+      { "name": "2 star", "count": 20000000 },
+      { "name": "3 star", "count": 70000000 },
+      { "name": "4 star", "count": 150000000 },
+      { "name": "5 star", "count": 310000000 }
+    ]
+  },
+  {
+    "id": 6,
+    "image": "/Figma.jpeg",
+    "title": "Figma",
+    "companyName": "Figma Inc.",
+    "description": "Collaborative interface design tool for modern teams.",
+    "size": 85,
+    "reviews": 500000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      { "name": "1 star", "count": 10000 },
+      { "name": "2 star", "count": 7000 },
+      { "name": "3 star", "count": 40000 },
+      { "name": "4 star", "count": 150000 },
+      { "name": "5 star", "count": 293000 }
+    ]
+  },
+  {
+    "id": 7,
+    "image": "/fitnesstracker.jpeg",
+    "title": "Fitness Tracker",
+    "companyName": "HealthTech Labs",
+    "description": "Track your daily steps, workouts, and calorie goals easily.",
+    "size": 70,
+    "reviews": 1000000,
+    "ratingAvg": 4.6,
+    "downloads": 80000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 25000 },
+      { "name": "3 star", "count": 120000 },
+      { "name": "4 star", "count": 300000 },
+      { "name": "5 star", "count": 535000 }
+    ]
+  },
+  {
+    "id": 8,
+    "image": "/Github.jpeg",
+    "title": "GitHub",
+    "companyName": "GitHub Inc.",
+    "description": "Build, share, and collaborate on code with developers worldwide.",
+    "size": 95,
+    "reviews": 800000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000 },
+      { "name": "2 star", "count": 20000 },
+      { "name": "3 star", "count": 80000 },
+      { "name": "4 star", "count": 250000 },
+      { "name": "5 star", "count": 435000 }
+    ]
+  },
+  {
+    "id": 9,
+    "image": "/Instagram.jpeg",
+    "title": "Instagram",
+    "companyName": "Meta Platforms Inc.",
+    "description": "Share photos, stories, and connect with friends and creators.",
+    "size": 150,
+    "reviews": 140000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000000 },
+      { "name": "2 star", "count": 15000000 },
+      { "name": "3 star", "count": 70000000 },
+      { "name": "4 star", "count": 160000000 },
+      { "name": "5 star", "count": 385000000 }
+    ]
+  },
+  {
+    "id": 10,
+    "image": "/Linkedin.jpeg",
+    "title": "LinkedIn",
+    "companyName": "Microsoft Corporation",
+    "description": "Grow your career network and discover job opportunities worldwide.",
+    "size": 90,
+    "reviews": 20000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 5000000 },
+      { "name": "5 star", "count": 13600000 }
+    ]
+  },
+  {
+    "id": 11,
+    "image": "/Netflix.jpeg",
+    "title": "Netflix",
+    "companyName": "Netflix Inc.",
+    "description": "Watch your favorite movies, TV shows, and Netflix Originals anytime.",
+    "size": 180,
+    "reviews": 250000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 15000000 },
+      { "name": "2 star", "count": 10000000 },
+      { "name": "3 star", "count": 40000000 },
+      { "name": "4 star", "count": 80000000 },
+      { "name": "5 star", "count": 105000000 }
+    ]
+  },
+  {
+    "id": 12,
+    "image": "/Notion.jpeg",
+    "title": "Notion",
+    "companyName": "Notion Labs Inc.",
+    "description": "All-in-one workspace for notes, projects, and team collaboration.",
+    "size": 80,
+    "reviews": 1200000,
+    "ratingAvg": 4.7,
+    "downloads": 50000000,
+    "ratings": [
+      { "name": "1 star", "count": 20000 },
+      { "name": "2 star", "count": 30000 },
+      { "name": "3 star", "count": 100000 },
+      { "name": "4 star", "count": 400000 },
+      { "name": "5 star", "count": 650000 }
+    ]
+  },
+  {
+    "id": 13,
+    "image": "/Photoshop.jpeg",
+    "title": "Adobe Photoshop",
+    "companyName": "Adobe Inc.",
+    "description": "Edit photos, create designs, and bring your creativity to life.",
+    "size": 250,
+    "reviews": 9000000,
+    "ratingAvg": 4.6,
+    "downloads": 100000000,
+    "ratings": [
+      { "name": "1 star", "count": 150000 },
+      { "name": "2 star", "count": 100000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 5850000 }
+    ]
+  },
+  {
+    "id": 14,
+    "image": "/Pinterest.jpeg",
+    "title": "Pinterest",
+    "companyName": "Pinterest Inc.",
+    "description": "Discover new ideas for recipes, home decor, and more.",
+    "size": 100,
+    "reviews": 20000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 12000000 }
+    ]
+  },
+  {
+    "id": 15,
+    "image": "/Reddit.jpeg",
+    "title": "Reddit",
+    "companyName": "Reddit Inc.",
+    "description": "Join communities, discuss topics, and share your passions.",
+    "size": 80,
+    "reviews": 15000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 400000 },
+      { "name": "2 star", "count": 350000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 8900000 }
+    ]
+  },
+  {
+    "id": 16,
+    "image": "/Snapchat.jpeg",
+    "title": "Snapchat",
+    "companyName": "Snap Inc.",
+    "description": "Share moments with friends and explore the world through Snap.",
+    "size": 120,
+    "reviews": 100000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 3000000 },
+      { "name": "2 star", "count": 2500000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 20000000 },
+      { "name": "5 star", "count": 67500000 }
+    ]
+  },
+  {
+    "id": 17,
+    "image": "/Soundcloud.jpeg",
+    "title": "SoundCloud",
+    "companyName": "SoundCloud Ltd.",
+    "description": "Stream music and discover trending tracks from global artists.",
+    "size": 90,
+    "reviews": 20000000,
+    "ratingAvg": 4.5,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 7000000 },
+      { "name": "5 star", "count": 12100000 }
+    ]
+  },
+  {
+    "id": 18,
+    "image": "/Spotify.jpeg",
+    "title": "Spotify",
+    "companyName": "Spotify AB",
+    "description": "Listen to your favorite music and podcasts anywhere, anytime.",
+    "size": 110,
+    "reviews": 350000000,
+    "ratingAvg": 4.7,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 5000000 },
+      { "name": "2 star", "count": 4000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 50000000 },
+      { "name": "5 star", "count": 276000000 }
+    ]
+  },
+  {
+    "id": 19,
+    "image": "/Telegram.jpeg",
+    "title": "Telegram",
+    "companyName": "Telegram FZ LLC",
+    "description": "Fast and secure messaging app with privacy-first features.",
+    "size": 75,
+    "reviews": 25000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 500000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 6000000 },
+      { "name": "5 star", "count": 15100000 }
+    ]
+  },
+  {
+    "id": 20,
+    "image": "/Tiktok.jpeg",
+    "title": "TikTok",
+    "companyName": "ByteDance Ltd.",
+    "description": "Watch, create, and share short videos with millions worldwide.",
+    "size": 140,
+    "reviews": 100000000,
+    "ratingAvg": 4.5,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 2000000 },
+      { "name": "3 star", "count": 8000000 },
+      { "name": "4 star", "count": 22000000 },
+      { "name": "5 star", "count": 68000000 }
+    ]
+  },
+  {
+    "id": 21,
+    "image": "/Twitch.jpeg",
+    "title": "Twitch",
+    "companyName": "Twitch Interactive Inc.",
+    "description": "Live stream your favorite games and connect with players worldwide.",
+    "size": 100,
+    "reviews": 8000000,
+    "ratingAvg": 4.4,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 250000 },
+      { "name": "2 star", "count": 200000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 3800000 }
+    ]
+  },
+  {
+    "id": 22,
+    "image": "/Viber.jpeg",
+    "title": "Viber",
+    "companyName": "Rakuten Inc.",
+    "description": "Free messaging and calls with end-to-end encryption.",
+    "size": 85,
+    "reviews": 15000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 250000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 9500000 }
+    ]
+  },
+  {
+    "id": 23,
+    "image": "/Whatsapp.jpeg",
+    "title": "WhatsApp Messenger",
+    "companyName": "Meta Platforms Inc.",
+    "description": "Simple, reliable messaging and calling across the globe.",
+    "size": 90,
+    "reviews": 300000000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000000,
+    "ratings": [
+      { "name": "1 star", "count": 8000000 },
+      { "name": "2 star", "count": 6000000 },
+      { "name": "3 star", "count": 18000000 },
+      { "name": "4 star", "count": 50000000 },
+      { "name": "5 star", "count": 218000000 }
+    ]
+  },
+  {
+    "id": 24,
+    "image": "/clashroyal.jpeg",
+    "title": "Clash Royale",
+    "companyName": "Supercell",
+    "description": "A real-time multiplayer game featuring your favorite Clash characters.",
+    "size": 180,
+    "reviews": 12000000,
+    "ratingAvg": 4.6,
+    "downloads": 500000000,
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 700000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 8300000 }
+    ]
+  },
+  {
+    "id": 25,
+    "image": "/8ball-pool.jpeg",
+    "title": "8 Ball Pool",
+    "companyName": "Miniclip.com",
+    "description": "Play the world’s #1 pool game online! Challenge friends, compete in tournaments, and become the ultimate pool champion.",
+    "size": 180,
+    "reviews": 25000000,
+    "ratingAvg": 4.4,
+    "downloads": 1000000000,
+    "ratings": [
+        { "name": "1 star", "count": 600000 },
+        { "name": "2 star", "count": 400000 },
+        { "name": "3 star", "count": 2500000 },
+        { "name": "4 star", "count": 6000000 },
+        { "name": "5 star", "count": 15500000 }
+    ]
+    },
+  {
+    "id": 26,
+    "image": "/zoom.jpeg",
+    "title": "Zoom",
+    "companyName": "Zoom Video Communications Inc.",
+    "description": "Video conferencing made simple, secure, and reliable.",
+    "size": 130,
+    "reviews": 90000000,
+    "ratingAvg": 4.3,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 2000000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 5000000 },
+      { "name": "4 star", "count": 12000000 },
+      { "name": "5 star", "count": 69500000 }
+    ]
+  },
+  {
+    "id": 27,
+    "image": "/clash-of-clans.jpeg",
+    "title": "Clash of Clans",
+    "companyName": "Supercell",
+    "description": "Build your village, train your troops, and battle millions of players worldwide in this epic strategy game from Supercell.",
+    "size": 330,
+    "reviews": 57000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+        { "name": "1 star", "count": 1000000 },
+        { "name": "2 star", "count": 700000 },
+        { "name": "3 star", "count": 4000000 },
+        { "name": "4 star", "count": 11000000 },
+        { "name": "5 star", "count": 40300000 }
+    ]
+    },
+  {
+    "id": 28,
+    "image": "/twitter.jpeg",
+    "title": "X (Twitter)",
+    "companyName": "X Corp.",
+    "description": "Stay informed with real-time updates and trending conversations.",
+    "size": 130,
+    "reviews": 150000000,
+    "ratingAvg": 4.2,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 6000000 },
+      { "name": "2 star", "count": 5000000 },
+      { "name": "3 star", "count": 15000000 },
+      { "name": "4 star", "count": 40000000 },
+      { "name": "5 star", "count": 84000000 }
+    ]
+  },
+  {
+    "id": 29,
+    "image": "/Brawlstar.jpeg",
+    "title": "Brawl Stars",
+    "companyName": "Supercell",
+    "description": "Fast-paced 3v3 multiplayer battles and battle royale action! Team up with friends, unlock new Brawlers, and climb the leaderboards.",
+    "size": 300,
+    "reviews": 25000000,
+    "ratingAvg": 4.5,
+    "downloads": 1000000000,
+    "ratings": [
+        { "name": "1 star", "count": 500000 },
+        { "name": "2 star", "count": 400000 },
+        { "name": "3 star", "count": 2000000 },
+        { "name": "4 star", "count": 7000000 },
+        { "name": "5 star", "count": 15100000 }
+    ]
+},
+  {
+    "id": 30,
+    "image": "/Capcut.jpeg",
+    "title": "CapCut",
+    "companyName": "Bytedance Pte. Ltd.",
+    "description": "Create and edit videos effortlessly with powerful tools and effects.",
+    "size": 160,
+    "reviews": 50000000,
+    "ratingAvg": 4.6,
+    "downloads": 1000000000,
+    "ratings": [
+      { "name": "1 star", "count": 1000000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 4000000 },
+      { "name": "4 star", "count": 9000000 },
+      { "name": "5 star", "count": 34100000 }
+    ]
+  },
+  {
+    "id": 31,
+    "image": "/Quora.jpeg",
+    "title": "Quora",
+    "companyName": "Quora Inc.",
+    "description": "Ask questions, get answers, and share knowledge with a global community.",
+    "size": 80,
+    "reviews": 5000000,
+    "ratingAvg": 4.5,
+    "downloads": 100000000,
+    "ratings": [
+        { "name": "1 star", "count": 50000 },
+        { "name": "2 star", "count": 40000 },
+        { "name": "3 star", "count": 300000 },
+        { "name": "4 star", "count": 1200000 },
+        { "name": "5 star", "count": 8600000 }
+    ]
+},
+{
+    "id": 32,
+    "image": "/googledrive.jpeg",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "description": "Store files, share documents, and access your content from anywhere securely.",
+    "size": 120,
+    "reviews": 20000000,
+    "ratingAvg": 4.6,
+    "downloads": 2000000000,
+    "ratings": [
+        { "name": "1 star", "count": 500000 },
+        { "name": "2 star", "count": 400000 },
+        { "name": "3 star", "count": 3000000 },
+        { "name": "4 star", "count": 8000000 },
+        { "name": "5 star", "count": 118000000 }
+    ]
+  }
+]
